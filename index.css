@@ -1,0 +1,18 @@
+/* Write your code here. */
+body {
+  margin: 0;
+}
+
+.bg-container {
+  background-color: #0f172a;
+  height: 100vh;
+  text-align: center;
+  padding-top: 50px;
+}
+.main-heading {
+  color: white;
+  font-family: Roboto;
+}
+.image {
+  height: 50vh;
+}
